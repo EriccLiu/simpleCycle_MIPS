@@ -1,0 +1,3 @@
+# Output products list for <Clk_gen>
+Clk_gen.xco
+Clk_gen_flist.txt
